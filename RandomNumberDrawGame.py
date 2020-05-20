@@ -3,7 +3,6 @@ __copyright__ = "Copyright 2020, Random Number Draw Game, University Project"
 __credits__ = "juanpabloaj --> moda_media.py "
 __license__ = "GPL"
 __version__ = "1.0.1"
-__maintainer__ = "Juan Esteban Salas"
 __email__ = "sebas551v@gmail.com"
 __status__ = "Production"
 
